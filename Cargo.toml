@@ -1,0 +1,13 @@
+[package]
+name = "jabieng-bow"
+version = "0.1.0"
+authors = ["Johanan Wahlang <wadkhlemshem@gmail.com>"]
+edition = "2021"
+description = "Brainfuck interpreter"
+repository = "https://github.com/wadkhlemshem/jabieng-bow.git"
+license = "MIT"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
